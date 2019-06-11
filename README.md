@@ -17,6 +17,7 @@ Once we have all the events inside the enum we could start to use the manager:
 ![](Images/TestClass.png)
 
 When you are triying to trigger an event you have to ad as parameter an object EventParam, so who is listenting to this event will receive this param.
-You can modify the class to add more type of calues if you need it:
+
+You can modify the class to add more type of values if you need it:
 
 ![](Images/EventParam.png)
